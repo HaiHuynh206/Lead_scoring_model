@@ -21,10 +21,31 @@
 | SHAP       | Train Accuracy | Train F1-score | Train Gini | Test Accuracy | Test F1-score | Test Gini |
 |------------|----------------|----------------|------------|---------------|---------------|-----------|
 | CatBoost 0 | 0.8388         | 0.870          | 0.830      | 0.8371        | 0.866         | 0.816     |
-| CatBoost 1 | 0.787          | 0.787          |            | 0.793         |               |           |
+| CatBoost 1 |                | 0.787          |            |               | 0.793         |           |
 | LightGBM 0 | 0.8347         | 0.867          | 0.818      | 0.8355        | 0.865         | 0.817     |
 | LightGBM 1 |                | 0.781          |            |               | 0.789         |           |
 
 
 - This model helps businesses identify and focus resources on potential customers with high conversion potential, thereby optimizing sales and marketing strategies.
 
+**Hyperparameters Turning**
+_CatBoost_
+<p align="center">
+  <img src="hyper_cb_1.png" />
+</p>
+<p align="center">
+  <img src="hyper_cb_2.png" />
+</p>
+
+_LightGBM_
+<p align="center">
+  <img src="hyper_lgb_1.png" />
+</p>
+<p align="center">
+  <img src="hyper_lgb_2.png" />
+</p>
+
+**Score**
+<p align="center">
+  <img src="score.png" />
+</p>
