@@ -4,14 +4,14 @@
 - This project aims to develop a machine learning model to automate the process of scoring potential customers (lead scoring) in Customer Relationship Management (CRM). The primary goal is to provide a tool that helps businesses better understand the potential of each customer, thereby optimizing outreach strategies and enhancing sales effectiveness.
 
 <p align="center">
-  <img src="image/predictive_lead_scoring_flow-1.png" />
+  <img src="image2/predictive_lead_scoring_flow-1.png" />
 </p>
 
 ## Using the Model
 - This model allows businesses to automate the scoring of lead customers based on various criteria including online behavior, and interactions with campaigns. Below is a flow illustrating how the model operates:
 
 <p align="center">
-  <img src="image/Flowchart and Database - Lead Scoring Model-Flowchart_Lead_score.drawio.png" />
+  <img src="image2/Flowchart and Database - Lead Scoring Model-Flowchart_Lead_score.drawio.png" />
 </p>
 
 
@@ -31,18 +31,18 @@
 **Hyperparameters Turning**  
 _CatBoost_
 <p align="center">
-  <img src="image/hyper_cb_1.png" />
+  <img src="image2/hyper_cb_1.png" />
 </p>
 <p align="center">
-  <img src="image/hyper_cb_2.png" />
+  <img src="image2/hyper_cb_2.png" />
 </p>
 
 _LightGBM_
 <p align="center">
-  <img src="image/hyper_lgb_1.png" />
+  <img src="image2/hyper_lgb_1.png" />
 </p>
 <p align="center">
-  <img src="image/hyper_lgb_2.png" />
+  <img src="image2/hyper_lgb_2.png" />
 </p>
 
 **Score**
