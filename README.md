@@ -29,23 +29,25 @@
 - This model helps businesses identify and focus resources on potential customers with high conversion potential, thereby optimizing sales and marketing strategies.
 
 **Hyperparameters Turning**
+//
 _CatBoost_
 <p align="center">
-  <img src="hyper_cb_1.png" />
+  <img src="image/hyper_cb_1.png" />
 </p>
 <p align="center">
-  <img src="hyper_cb_2.png" />
+  <img src="image/hyper_cb_2.png" />
 </p>
 
 _LightGBM_
 <p align="center">
-  <img src="hyper_lgb_1.png" />
+  <img src="image/hyper_lgb_1.png" />
 </p>
 <p align="center">
-  <img src="hyper_lgb_2.png" />
+  <img src="image/hyper_lgb_2.png" />
 </p>
 
 **Score**
+
 <p align="center">
-  <img src="score.png" />
+  <img src="image/score.png" />
 </p>
