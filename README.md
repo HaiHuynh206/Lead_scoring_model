@@ -48,5 +48,5 @@ _LightGBM_
 **Score**
 
 <p align="center">
-  <img src="image/score.png" />
+  <img src="image2/score.png" />
 </p>
