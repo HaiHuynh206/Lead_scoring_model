@@ -1,1 +1,1 @@
-# Lead_scoring_model
+# Developing machine learning models for lead scoring in customer relationship management
