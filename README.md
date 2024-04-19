@@ -28,8 +28,7 @@
 
 - This model helps businesses identify and focus resources on potential customers with high conversion potential, thereby optimizing sales and marketing strategies.
 
-**Hyperparameters Turning**
-//
+**Hyperparameters Turning**  
 _CatBoost_
 <p align="center">
   <img src="image/hyper_cb_1.png" />
