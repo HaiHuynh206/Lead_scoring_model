@@ -14,6 +14,10 @@
   <img src="image2/Flowchart and Database - Lead Scoring Model-Flowchart_Lead_score.drawio.png" />
 </p>
 
+<p align="center">
+  <img src="image2/Flowchart and Database - Lead Scoring Model-ML_flow.drawio.png" />
+</p>
+
 
 ## Results
 - The model has achieved notable results in classifying and predicting potential customers with a high likelihood of conversion. Below are some charts and tables demonstrating the effectiveness of the model:
